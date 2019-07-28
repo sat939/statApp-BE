@@ -1,0 +1,20 @@
+{
+  "name": "statapp-be",
+  "version": "1.0.0",
+  "description": "API's for the statApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sathvik ponakala",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/register": "^7.5.5",
+    "express": "^4.17.1",
+    "mongoclient": "^1.0.3",
+    "mongodb": "^3.3.0-beta2",
+    "nodemon": "^1.19.1"
+  }
+}
